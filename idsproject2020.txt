@@ -1,0 +1,41 @@
+
+
+
+
+
+
+EESTI-X-TEE-HICCUPS
+
+
+Eelmise aasta eesti.ee päringud mai - juuni-juuli 2019 , mai-juuli 2020 (riigieksamid)
+
+Maksu ja tolliameti liiklus nii et sisse jääks jõulupakkide liikumise aeg oktoober - jaanuar 2019-2020
+
+Patsiendi portaal või kogu TEHIK komplekt - veebruar - november 2020
+
+Koroonastatistika 2020, et panna see kõrvuti partsendi portaali päringutega
+
+
+Dataset 1 (SIZE GB): X-tee logs
+Dataset 2 (SIZE KB): COVID-19 trends
+...
+Goal 1: To find the information system request trends related with real world events to predict the IS avalability needs
+Goal 2: Description of the second goal
+...
+Any more comments or thoughts you want to highlight here. 
+Links:
+[1] URL1
+[2] URL2
+...
+
+
+
+
+
+
+
+
+
+
+
+
