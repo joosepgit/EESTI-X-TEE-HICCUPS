@@ -30,6 +30,28 @@ Links:
 
 
 
+Facts about XRoad
+https://www.x-tee.ee/factsheets/EE/#eng
+https://x-tee.ee/service-catalog
+
+Network
+https://logs.x-tee.ee/visualizer/EE/
+
+Fields description
+https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_interface.md
+https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/cfg_lists/field_data.yaml
+
+Servrice decriptions
+https://www.x-tee.ee/catalogue/EE
+
+koroonakaart  (CSV)
+https://koroonakaart.ee/et
+
+opendata:
+https://logs.x-tee.ee/EE/gui/
+
+
+
 
 
 
